@@ -1,0 +1,14 @@
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\bin\Debug\net8.0\SurvivorIO.exe
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\bin\Debug\net8.0\SurvivorIO.deps.json
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\bin\Debug\net8.0\SurvivorIO.runtimeconfig.json
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\bin\Debug\net8.0\SurvivorIO.dll
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\bin\Debug\net8.0\SurvivorIO.pdb
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\SurvivorIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\SurvivorIO.AssemblyInfoInputs.cache
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\SurvivorIO.AssemblyInfo.cs
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\SurvivorIO.csproj.CoreCompileInputs.cache
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\SurvivorIO.dll
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\refint\SurvivorIO.dll
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\SurvivorIO.pdb
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\SurvivorIO.genruntimeconfig.cache
+C:\Users\XGaming Systems\Documents\VS Code Stuff\General C# stuff\SurvivorIO\obj\Debug\net8.0\ref\SurvivorIO.dll
